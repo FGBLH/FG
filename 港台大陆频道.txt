@@ -468,7 +468,7 @@ CCTV14少儿,http://183.7.172.159:8888/hls/30/index.m3u8
 彩虹E(梯子),http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
 彩虹E(梯子),http://z88.ubtvfans.com/live/rx2/406/22c8e9a057d5bc2c0da0a2197154480a/index.m3u8
 彩虹E(梯子),http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8
-彩虹K(梯子),http://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
+彩虹K(免翻),http://iptvpro.pw:35451//live/加QQ群1041749599/11112222/988.ts
 HAPPY(梯子),http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
 奧視2台(梯子),http://125.227.210.55:8203/VideoInput/play.ts
 Banana香蕉台HD(梯子),http://z88.ubtvfans.com/live/rx3/2930/f1b639cdb783636b957ca60e67a2c6b3/index.m3u8
